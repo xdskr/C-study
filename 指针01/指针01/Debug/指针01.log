@@ -1,0 +1,12 @@
+﻿生成启动时间为 2021/2/2 22:33:12。
+     1>项目“F:\Study\C\寒假班\指针01\指针01\指针01.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt test04.c
+         test04.c
+     1>f:\study\c\寒假班\指针01\指针01\test04.c(109): error C2440: “函数”: 无法从“S *”转换为“S”
+     1>f:\study\c\寒假班\指针01\指针01\test04.c(109): warning C4024: “print1”: 形参和实参 1 的类型不同
+     1>已完成生成项目“F:\Study\C\寒假班\指针01\指针01\指针01.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.20
