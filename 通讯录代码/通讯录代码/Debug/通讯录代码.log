@@ -1,0 +1,14 @@
+﻿生成启动时间为 2021/3/16 11:43:39。
+     1>项目“F:\Study\C\寒假班进阶\通讯录代码\通讯录代码\通讯录代码.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt contact.c test.c
+         test.c
+         contact.c
+     1>f:\study\c\寒假班进阶\通讯录代码\通讯录代码\contact.c(106): error C2084: 函数“void DELContact(Contact *)”已有主体
+                 f:\study\c\寒假班进阶\通讯录代码\通讯录代码\contact.h(46) : 参见“DELContact”的前一个定义
+         正在生成代码...
+     1>已完成生成项目“F:\Study\C\寒假班进阶\通讯录代码\通讯录代码\通讯录代码.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.19
